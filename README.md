@@ -8,12 +8,12 @@ The objective was to transform raw transactional data into actionable insights t
 
 # Tools Used
 
-|Microsoft Excel|
-|Pivot Tables|
-|Data Modeling|
-|Dashboard Development|
-|KPI Reporting|
-|Data Visualization|
+* Microsoft Excel
+* Pivot Tables
+* Data Modeling
+* Dashboard Development
+* KPI Reporting
+* Data Visualization
 
 # Business Questions
 
