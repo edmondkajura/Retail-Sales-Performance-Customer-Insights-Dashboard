@@ -17,12 +17,12 @@ The objective was to transform raw transactional data into actionable insights t
 
 # Business Questions
 
-What is the total revenue generated?
-Which product categories generate the most revenue?
-Which shopping malls contribute the highest sales?
-How does revenue perform across different years and months?
-Which customer segments contribute most to revenue?
-What payment methods are most commonly used?
+* What is the total revenue generated?
+* Which product categories generate the most revenue?
+* Which shopping malls contribute the highest sales?
+* How does revenue perform across different years and months?
+* Which customer segments contribute most to revenue?
+* What payment methods are most commonly used?
 
 
 # Key Findings
